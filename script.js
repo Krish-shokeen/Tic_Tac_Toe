@@ -56,4 +56,5 @@ function resetGame() {
     createBoard();
 }
 
-createBoard();  // Initialize the game board when the page loads
+// Initialize the game board when the page loads
+createBoard();
